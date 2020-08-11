@@ -1,5 +1,5 @@
 # Consume API with GraphQL
-> This code help understand how to consume Rest API using _graphql_.
+> This code helps to understand how to consume data from Rest API using _GraphQL_.
 
 ## Technologies
 - [GraphQL](https://graphql.org/)
@@ -22,6 +22,6 @@ npm install
 npm run dev
 ```
 
-Now It's possible to use [_playground_](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/) on `http://localhost:4000` to test application.
+Now, It's possible to use [_playground_](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/) on `http://localhost:4000` to test backend.
 
 <img src="./docs/image/playground.png">
